@@ -1,2 +1,4 @@
-Flask
-python-dotenv
+Flask==2.0.1
+python-dotenv==0.18.0
+Flask-SQLAlchemy==2.5.1
+SQLAlchemy==1.4.21
